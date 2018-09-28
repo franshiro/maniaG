@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IndiraDayo/ManiaG.git"
+    "url": "git+https://github.com/franshiro/maniaG.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IndiraDayo/ManiaG/issues"
+    "url": "https://github.com/franshiro/maniaG/issues"
   },
-  "homepage": "https://github.com/IndiraDayo/ManiaG#readme",
+  "homepage": "https://github.com/franshiro/maniaG#readme",
   "dependencies": {
     "ejs": "^2.6.1",
     "express": "^4.16.3",
